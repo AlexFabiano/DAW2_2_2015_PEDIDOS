@@ -21,6 +21,8 @@
             <input type="password" id="senha" name="senha" placeholder="Senha" required><br><br>
             
             <input type="submit" value="Entrar" name="submit">
+            <a href="../View/User/confirmaemail.php">Recuperar senha!</a>
+            
         </form>
     </body>
 </html>
