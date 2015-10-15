@@ -20,8 +20,8 @@
             <input type="text" id="username" name="username" placeholder="Username" required><br><br>
             <input type="password" id="senha" name="senha" placeholder="Senha" required><br><br>
             
-            <input type="submit" value="Entrar" name="submit">
-            <a href="../View/User/confirmaemail.php">Recuperar senha!</a>
+            <input type="submit" value="Entrar" name="submit"><br><br>
+            <a href="View/User/confirmaemail.php">Recuperar senha!</a>
             
         </form>
     </body>
